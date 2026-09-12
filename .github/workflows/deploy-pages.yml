@@ -1,0 +1,43 @@
+name: Deploy website to GitHub Pages
+
+# Publishes the static files from the repository root.
+# One-time owner step if Pages is not enabled yet:
+#   Settings -> Pages -> Build and deployment -> Source: "GitHub Actions"
+# (Alternatively choose "Deploy from a branch" -> main -> / (root); the
+# committed .nojekyll file makes branch deployment work as-is.)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
