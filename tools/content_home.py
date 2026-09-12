@@ -31,7 +31,7 @@ VIDEO = {
         "scrutiny. Watch it here, or read the full guide underneath.</p>"
     ),
     "caption": (
-        "<strong>Embedded YouTube video:</strong> \u201cStripchat Hack 2026\u20132027? "
+        "<strong>Embedded YouTube video:</strong> \u201c🚨 Stripchat Hack 2026\u20132027? "
         "Free Token Claims Explained (UPDATED!!)\u201d by the YouTube channel "
         "<strong>thenewyorkjets28</strong>. The video is hosted on YouTube; this website "
         "does not own or produce it."

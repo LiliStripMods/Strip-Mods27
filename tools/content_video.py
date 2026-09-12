@@ -40,7 +40,7 @@ VIDEO = {
         "takeaways, and answers to common questions.</p>"
     ),
     "caption": (
-        "<strong>Embedded YouTube video:</strong> \u201cStripchat Hack 2026\u20132027? "
+        "<strong>Embedded YouTube video:</strong> \u201c🚨 Stripchat Hack 2026\u20132027? "
         "Free Token Claims Explained (UPDATED!!)\u201d, uploaded by the YouTube channel "
         "<strong>thenewyorkjets28</strong> on 11&nbsp;September&nbsp;2026 (duration "
         "1&nbsp;minute&nbsp;40&nbsp;seconds)."
@@ -64,7 +64,7 @@ BODY = r"""
   <div class="table-wrap">
     <table>
       <tbody>
-        <tr><th scope="row">Title on YouTube</th><td>\u201cStripchat Hack 2026\u20132027? Free Token Claims Explained (UPDATED!!)\u201d</td></tr>
+        <tr><th scope="row">Title on YouTube</th><td>\u201c🚨 Stripchat Hack 2026\u20132027? Free Token Claims Explained (UPDATED!!)\u201d</td></tr>
         <tr><th scope="row">Publisher (channel)</th><td><a href="https://www.youtube.com/@thenewyorkjets28" rel="noopener noreferrer" target="_blank">thenewyorkjets28</a> on YouTube</td></tr>
         <tr><th scope="row">Upload date</th><td>11 September 2026</td></tr>
         <tr><th scope="row">Duration</th><td>1 minute 40 seconds</td></tr>
@@ -137,7 +137,7 @@ BODY = r"""
 
 FAQS = [
     ("Who made this video?",
-     "The embedded video titled \u201cStripchat Hack 2026\u20132027? Free Token Claims Explained (UPDATED!!)\u201d was uploaded to YouTube by the channel thenewyorkjets28 on 11 September 2026. This website is independent of that channel and of StripChat."),
+     "The embedded video titled \u201c🚨 Stripchat Hack 2026\u20132027? Free Token Claims Explained (UPDATED!!)\u201d was uploaded to YouTube by the channel thenewyorkjets28 on 11 September 2026. This website is independent of that channel and of StripChat."),
     ("Does this website own the video?",
      "No. The video belongs to its YouTube publisher and is embedded here through YouTube\u2019s standard embedding using the privacy-enhanced youtube-nocookie.com domain. Playing it is subject to YouTube\u2019s terms and privacy policy. If the publisher removes it, the embed will stop working."),
     ("Is the offer mentioned in the video legitimate?",
