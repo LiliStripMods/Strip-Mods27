@@ -81,13 +81,12 @@ PAGES.append({
   <li><strong>Accessibility issues:</strong> the page, device, browser, and the barrier you encountered.</li>
 </ul>
 <div class="placeholder-line">
-<strong>Contact email (placeholder):</strong> replace
-<code>REPLACE-WITH-YOUR-EMAIL@example.com</code> with a monitored mailbox before publishing.
-Until replaced, this form cannot deliver messages.
+<strong>Contact email:</strong>
+<code>concepropiedades2@gmail.com</code>
 </div>
 <h2>Message form</h2>
-<p class="form-note">Static sites cannot process server-side forms. The button below opens your email client with the message pre-filled; if JavaScript is disabled, copy the placeholder address above into your email client manually.</p>
-<form class="contact-form" id="contact-form" data-to="REPLACE-WITH-YOUR-EMAIL@example.com">
+<p class="form-note">Static sites cannot process server-side forms. The button below opens your email client with the message pre-filled; if JavaScript is disabled, copy the address above into your email client manually.</p>
+<form class="contact-form" id="contact-form" data-to="concepropiedades2@gmail.com">
   <div>
     <label for="cf-name">Your name (optional)
       <input id="cf-name" name="name" type="text" autocomplete="name" placeholder="You may remain anonymous">
@@ -145,7 +144,7 @@ PAGES.append({
 <h2>Local storage preference</h2>
 <p>If you dismiss the age/content notice, the site stores a single preference in your browser&rsquo;s local storage so the notice stays dismissed. It contains no personal data, is never transmitted, and can be removed at any time by clearing site data in your browser.</p>
 <h2>The contact form</h2>
-<p>The contact form creates an email in your own email client; nothing is submitted to this website&rsquo;s server. Do not include sensitive credentials or financial information in messages. Once an email is sent, its handling depends on the configured mailbox (replace the placeholder address before deployment).</p>
+<p>The contact form creates an email in your own email client; nothing is submitted to this website&rsquo;s server. Do not include sensitive credentials or financial information in messages. Once an email is sent, its handling depends on the configured mailbox.</p>
 <h2>External links</h2>
 <p>Sponsored buttons link to independent third-party websites with <code>rel=&quot;nofollow sponsored noopener noreferrer&quot;</code> and open in a new tab. Once you leave this domain, the destination&rsquo;s own privacy policy and terms apply; we do not control and cannot verify their data practices. Review their policies before entering information.</p>
 <h2>Hosting</h2>
