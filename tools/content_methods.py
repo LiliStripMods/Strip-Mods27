@@ -36,7 +36,7 @@ VIDEO = {
         "not to this website.</p>"
     ),
     "caption": (
-        "<strong>Embedded YouTube video:</strong> \u201cStripchat Hack 2026\u20132027? "
+        "<strong>Embedded YouTube video:</strong> \u201c🚨 Stripchat Hack 2026\u20132027? "
         "Free Token Claims Explained (UPDATED!!)\u201d by the YouTube channel "
         "<strong>thenewyorkjets28</strong>. Press play to load the YouTube player."
     ),

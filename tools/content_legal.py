@@ -8,7 +8,7 @@ COMPACT_VIDEO = {
         "independent publisher and does not autoplay.</p>"
     ),
     "caption": (
-        "<strong>Embedded YouTube video:</strong> \u201cStripchat Hack 2026\u20132027? "
+        "<strong>Embedded YouTube video:</strong> \u201c🚨 Stripchat Hack 2026\u20132027? "
         "Free Token Claims Explained (UPDATED!!)\u201d by the YouTube channel "
         "<strong>thenewyorkjets28</strong>."
     ),
@@ -253,7 +253,7 @@ PAGES.append({
 <h2>Safety and legality</h2>
 <p>The site does not provide instructions for hacking, credential theft, token generators, cracked or modified applications, account bypasses, or unauthorized modifications. Topics such as &ldquo;StripChat mod APK,&rdquo; &ldquo;StripChat hack,&rdquo; or &ldquo;StripChat mods&rdquo; are addressed only as warnings. You are responsible for complying with the laws and terms that apply to you, including the platform&rsquo;s terms of service.</p>
 <h2>Embedded video belongs to its publisher</h2>
-<p>The embedded YouTube video &mdash; &ldquo;Stripchat Hack 2026&ndash;2027? Free Token Claims Explained (UPDATED!!)&rdquo; by the channel <strong>thenewyorkjets28</strong> &mdash; is the property of its respective publisher and is embedded via YouTube&rsquo;s standard, privacy-enhanced embed. This website does not own, host on its own servers, sell, or claim authorship of the video. Statements made in the video are the publisher&rsquo;s and are not verified as promises.</p>
+<p>The embedded YouTube video &mdash; &ldquo;🚨 Stripchat Hack 2026&ndash;2027? Free Token Claims Explained (UPDATED!!)&rdquo; by the channel <strong>thenewyorkjets28</strong> &mdash; is the property of its respective publisher and is embedded via YouTube&rsquo;s standard, privacy-enhanced embed. This website does not own, host on its own servers, sell, or claim authorship of the video. Statements made in the video are the publisher&rsquo;s and are not verified as promises.</p>
 <h2>Third-party websites</h2>
 <p>External destinations are not under this site&rsquo;s control. We do not warrant their availability, legality, safety, accuracy, or content, and we are not responsible for any loss from using them. A link or embed is not an endorsement. Review every destination&rsquo;s terms and privacy practices yourself.</p>
 <h2>Adult-content notice</h2>
