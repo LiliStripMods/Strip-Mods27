@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Shield with a token, the site emblem">
+  <rect width="64" height="64" rx="14" fill="#0f1521"/>
+  <path d="M32 8 L50 15 V30 C50 42 42 50 32 55 C22 50 14 42 14 30 V15 Z" fill="#16202f" stroke="#2dd4bf" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="32" cy="30" r="9.5" fill="#0f1521" stroke="#818cf8" stroke-width="2.5"/>
+  <path d="M32 24.5 V35.5 M28.5 28 H34.5 Q36 28 36 30 Q36 32 34.5 32 H28.5" fill="none" stroke="#2dd4bf" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M27.5 40.5 L30.8 43.5 L37 36.5" fill="none" stroke="#2dd4bf" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

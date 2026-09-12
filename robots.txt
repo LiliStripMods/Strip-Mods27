@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lilistripmods.github.io/Strip-Mods27/sitemap.xml

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" width="640" height="420" role="img" aria-label="Illustration of a secure browser window showing a padlock and a blocked warning page">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101826"/>
+      <stop offset="1" stop-color="#0c111a"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="20" fill="url(#bg3)"/>
+  <!-- browser window -->
+  <rect x="80" y="66" width="480" height="290" rx="16" fill="#182230" stroke="#334155" stroke-width="2"/>
+  <rect x="80" y="66" width="480" height="46" rx="16" fill="#1e2c40"/>
+  <rect x="80" y="96" width="480" height="16" fill="#1e2c40"/>
+  <circle cx="112" cy="89" r="7" fill="#f87171"/>
+  <circle cx="136" cy="89" r="7" fill="#fbbf24"/>
+  <circle cx="160" cy="89" r="7" fill="#34d399"/>
+  <!-- address bar -->
+  <rect x="196" y="76" width="338" height="26" rx="13" fill="#0f1521" stroke="#334155" stroke-width="1.5"/>
+  <g transform="translate(214 82)">
+    <rect x="0" y="6" width="14" height="12" rx="2.5" fill="none" stroke="#2dd4bf" stroke-width="2"/>
+    <path d="M3 6 V3 a4 4 0 0 1 8 0 v3" fill="none" stroke="#2dd4bf" stroke-width="2"/>
+  </g>
+  <text x="238" y="94" fill="#8fb0c9" font-family="Segoe UI, Arial, sans-serif" font-size="13">https:// — check the real domain before logging in</text>
+  <!-- body: blocked warning -->
+  <g transform="translate(120 138)">
+    <path d="M60 0 L120 104 H0 Z" fill="#2a1d1d" stroke="#f87171" stroke-width="3" stroke-linejoin="round"/>
+    <rect x="56" y="34" width="8" height="34" rx="4" fill="#f87171"/>
+    <circle cx="60" cy="82" r="5" fill="#f87171"/>
+    <text x="150" y="40" fill="#e6edf6" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Suspicious page blocked</text>
+    <text x="150" y="70" fill="#9fb4cd" font-family="Segoe UI, Arial, sans-serif" font-size="14">No password or card details entered</text>
+    <text x="150" y="96" fill="#9fb4cd" font-family="Segoe UI, Arial, sans-serif" font-size="14">No downloads from this site</text>
+    <g transform="translate(150 116)">
+      <rect width="190" height="34" rx="17" fill="#134e3f"/>
+      <text x="95" y="22" fill="#2dd4bf" font-family="Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">Return to official site</text>
+    </g>
+  </g>
+</svg>
