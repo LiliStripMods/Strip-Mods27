@@ -28,6 +28,7 @@ import content_methods
 import content_safety
 import content_video
 import content_legal
+import content_leak_claims
 
 # ---------------------------------------------------------------------------
 # Configuration --------------------------------------------------------------
@@ -56,6 +57,8 @@ H1 = {
         "StripChat Token Scams, Fake Generators and Online Safety",
     "/stripchat-tokens-video-guide/":
         "StripChat Tokens Video Guide: Legitimate Methods and Safety Advice",
+    "/stripchat-tokens-free-leak-2027/":
+        "\u201cStripChat Tokens Free (LEAK NEW METHODS 2027!!!)\u201d \u2014 Fact-Checked",
 }
 
 # ---------------------------------------------------------------------------
@@ -184,6 +187,7 @@ NAV_LINKS = [
     ("/legitimate-stripchat-token-methods/", "Legitimate Methods"),
     ("/stripchat-token-scams-and-safety/", "Scams &amp; Safety"),
     ("/stripchat-tokens-video-guide/", "Video Guide"),
+    ("/stripchat-tokens-free-leak-2027/", "2027 Claims"),
 ]
 
 FOOTER_GUIDES = NAV_LINKS
@@ -421,7 +425,8 @@ def sticky_bar_html(base):
     labels = {"/": "Home",
               "/legitimate-stripchat-token-methods/": "Legit methods",
               "/stripchat-token-scams-and-safety/": "Safety",
-              "/stripchat-tokens-video-guide/": "Video"}
+              "/stripchat-tokens-video-guide/": "Video",
+              "/stripchat-tokens-free-leak-2027/": "2027"}
     for i, (href, _) in enumerate(NAV_LINKS):
         label = labels[href]
         icon = icon_home if i == 0 else ""
@@ -653,6 +658,7 @@ def main():
         ("/legitimate-stripchat-token-methods/", content_methods),
         ("/stripchat-token-scams-and-safety/", content_safety),
         ("/stripchat-tokens-video-guide/", content_video),
+        ("/stripchat-tokens-free-leak-2027/", content_leak_claims),
     ]
     slugs = []
     for slug, mod in articles:

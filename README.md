@@ -19,6 +19,7 @@ avoid fake generators, "hacks", mod APKs, phishing pages, and rogue extensions.
 | Legitimate methods | `/legitimate-stripchat-token-methods/` |
 | Scams & safety | `/stripchat-token-scams-and-safety/` |
 | Video guide | `/stripchat-tokens-video-guide/` |
+| “Leak 2027” claims fact-check | `/stripchat-tokens-free-leak-2027/` |
 | About / Contact / Privacy / Terms / Affiliate disclosure / Disclaimer | `/about/`, `/contact/`, `/privacy-policy/`, `/terms-of-use/`, `/affiliate-disclosure/`, `/disclaimer/` |
 | Not found | `/404.html` (noindex) |
 
@@ -40,6 +41,7 @@ tools/
   content_methods.py  # legitimate methods article
   content_safety.py   # scams & safety article
   content_video.py    # video-focused page (includes verified video metadata)
+  content_leak_claims.py  # fact-check of the “free tokens – leak 2027” claim
   content_legal.py    # about/contact/privacy/terms/disclosure/disclaimer
 assets/
   css/style.css       # single stylesheet (dark, accessible, mobile-first)

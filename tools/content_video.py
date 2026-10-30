@@ -132,6 +132,7 @@ BODY = r"""
   <a class="card" href="{{BASE}}/legitimate-stripchat-token-methods/"><small>GUIDE</small><h3>Legitimate StripChat token methods</h3><p>Official promotions, giveaways with clear rules, and how documented referral programs work.</p></a>
   <a class="card" href="{{BASE}}/stripchat-token-scams-and-safety/"><small>SAFETY</small><h3>Scams, fake generators, and online safety</h3><p>How each scam works, security best practices, recovery steps, and where to report fraud.</p></a>
   <a class="card" href="{{BASE}}/"><small>START HERE</small><h3>2026 free-token overview</h3><p>The homepage guide: what tokens are, what is possible, and how to evaluate every claim.</p></a>
+  <a class="card" href="{{BASE}}/stripchat-tokens-free-leak-2027/"><small>FACT-CHECK</small><h3>&ldquo;Leak new methods 2027&rdquo;</h3><p>Why the annual &ldquo;leaked method&rdquo; wave is recycled advertising, and what it really installs.</p></a>
 </div>
 """
 
